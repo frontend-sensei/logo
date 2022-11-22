@@ -1,0 +1,1 @@
+[Logos of Frontend Sensei](https://github.com/frontend-sensei/logos) © 2022 by [Yaroslav Gulnazaryan](https://github.com/frontend-sensei) is licensed under [Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)
